@@ -25,3 +25,6 @@ Factory Journal and Other Writings
 Admonitions on Governing the People
 A Theory of Semiotics
 Semiotics and the Philosophy of Language
+
+
+모래는 쥘수록 흘러내린다. 그 흘러내리는 모래를 어떤 그릇으로 만들지가 중요하다고 생각한다.
