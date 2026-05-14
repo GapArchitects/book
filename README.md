@@ -23,4 +23,5 @@ Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization
 A Room of One’s Own
 A Theory of Semiotics
 Semiotics and the Philosophy of Language
+Factory Journal and Other Writings
 
