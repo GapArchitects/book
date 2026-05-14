@@ -1,5 +1,6 @@
 # book
 
+
 Tao Te Ching
 Bhagavad Gita
 The Wretched of the Earth
@@ -15,13 +16,12 @@ The Plague
 What Is History?
 The Conquest of Happiness
 Discipline and Punish: The Birth of the Prison
-Admonitions on Governing the People
 Euthyphro
 What Is Literature?
 In Search of Lost Time
 Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization
 A Room of One’s Own
+Factory Journal and Other Writings
+Admonitions on Governing the People
 A Theory of Semiotics
 Semiotics and the Philosophy of Language
-Factory Journal and Other Writings
-
